@@ -29,7 +29,7 @@ O intuito desta amostragem é, utilizando técnicas de Processamento de Linguage
 
 st.markdown('---')
 st.markdown('# Sobre a Base de Dados')
-st.markdown('''A obtenção das letras das músicas foi dada por scrapping do site [Genius](https://genius.com/). Após isso, foram passadas por um pré-processamento que pode ser visto [neste link](). Com isso, as letras já estão em minúsculo, ausentes de pontuações e stopwords, além de já estarem lemmatizadas.
+st.markdown('''A obtenção das letras das músicas foi dada por scrapping do site [Genius](https://genius.com/). Após isso, foram passadas por um pré-processamento que pode ser visto [neste link](https://github.com/rianpf/DataScience/tree/main/streamlit). Com isso, as letras já estão em minúsculo, ausentes de pontuações e stopwords, além de já estarem lemmatizadas.
 
 Com isso em mente, podemos olhar as informações que serão úteis para as análises aqui construídas:
 
