@@ -12,3 +12,4 @@
  
 ###  1. [Classificação de Textos usando Pipeline do Sklearn](https://github.com/rianpf/DataScience/blob/main/make_pipeline.ipynb) 👷
 ###  2. [Interpretabilidade e Explicabilidade de modelos](https://github.com/rianpf/DataScience/blob/main/explainability_interpretability.ipynb) 👨‍🏫
+###  3. [Streamlit](https://github.com/rianpf/DataScience/tree/main/streamlit) 📈
